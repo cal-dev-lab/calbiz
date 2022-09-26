@@ -1,0 +1,26 @@
+{
+  "name": "calbiz",
+  "version": "1.0.0",
+  "description": "An NPX script to render a personal business card to the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cal-dev-lab/calbiz.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "cal-dev-lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cal-dev-lab/calbiz/issues"
+  },
+  "homepage": "https://github.com/cal-dev-lab/calbiz#readme",
+  "dependencies": {
+    "node-emoji": "^1.11.0"
+  }
+}
