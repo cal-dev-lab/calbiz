@@ -13,8 +13,10 @@ const phone = emoji.get("phone");
 console.log(`
 
 Callum Lees
-a.k.a. cal-dev-lab
+cal-dev-lab
+
 =====================
+
 # GitHub ${rocket}
 https://github.com/cal-dev-lab/
 
